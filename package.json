@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "study nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "nodejs",
+    "develop",
+    "hello world"
+  ],
+  "author": "Wu yang",
+  "license": "ISC"
+}
